@@ -70,6 +70,9 @@ L1:      DEC DX
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
+![WhatsApp Image 2025-09-16 at 18 30 05_d215daaa](https://github.com/user-attachments/assets/99d9637b-1fa2-454f-9daf-de07252036be)
+![WhatsApp Image 2025-09-16 at 18 30 04_b3a3f109](https://github.com/user-attachments/assets/aa790e36-6984-4702-a774-74b6dde6f738)
+
 
 ## RESULT
 
